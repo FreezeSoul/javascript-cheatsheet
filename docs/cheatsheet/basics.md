@@ -365,7 +365,7 @@ Bitwise operators operate on 32-bit binary representations of numbers:
 | Operator | Description                  | Example   | Result |
 | -------- | ---------------------------- | --------- | ------ |
 | `&`      | Bitwise AND                  | `5 & 1`   | `1`    |
-| `|"      | Bitwise OR                   | `5 | 1`   | `5`    |
+| `\|`     | Bitwise OR                   | `5 \| 1`  | `5`    |
 | `^`      | Bitwise XOR                  | `5 ^ 1`   | `4`    |
 | `~`      | Bitwise NOT                  | `~5`      | `-6`   |
 | `<<`     | Left shift                   | `5 << 1`  | `10`   |
